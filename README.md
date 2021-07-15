@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Venkteshkavi
 - 👀 I’m interested in building scalable distributed systems leveraging efficient  architectectural patterns.
-- 💻 Java backend engineer by profession
+- 💻 Backend Software Engineer by profession
 - 📫 How to reach me -> Reach out via venkteshkavi@gmail.com
 
 <!---
