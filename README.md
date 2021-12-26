@@ -3,7 +3,7 @@
 - 💻 Backend Software Engineer by profession
 - 📫 How to reach me -> Reach out via venkteshkavi@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Venktesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VenkteshKavi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Venkteshkavi/Venkteshkavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
